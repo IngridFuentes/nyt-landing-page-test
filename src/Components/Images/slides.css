@@ -1,0 +1,102 @@
+.slider-item{
+    /* float: left; */
+    background-color: rgb(0, 0, 0);
+    /* width: 205vh; */
+    height: 100vh;
+}
+svg{
+    margin-left: 60px
+}
+  .first-page-text{
+    position: absolute;
+    width: 1000px;
+    max-height: 100%;
+    left: 1500px;
+    top: 300px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    padding-top: 0px;
+    margin: -25vh 0px 0px;
+  }
+  .last-line-first-page{
+    font-family: nyt-cheltenham, NYTCheltenham, cheltenham, sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    position: absolute;
+    top: 480px;
+    left: 0px;
+    width: 100%;
+  }
+
+  .child2 {
+    /* float: left; */
+    background-color: rgb(242, 190, 190);
+    width: 200vh;
+    height: 100vh;
+  }
+  .jordan-sneakers{
+    background: url('../../Assets/jordanSneakers.png');
+    background-position: center;
+    display: flex;
+    position: absolute;
+    width: 564.4px;
+    height: 500px;
+    left: 200rem;
+    top: 150px;
+}
+.text-center{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: 3000px;
+    top: 340px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.styles-line{
+    position: absolute;
+    width: 196.2px;
+    height: 24.3px;
+    left: 153rem;
+    top: 46rem;
+    font-family: 'NYTKarnak';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 23px;
+    line-height: 25px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: blue!important;
+}
+.fight-sneakers-line{
+    position: absolute;
+    width: 360px;
+    height: 102.6px;
+    left: 3400px;
+    top: 37rem;
+    font-family: 'NYTCheltenham';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+}

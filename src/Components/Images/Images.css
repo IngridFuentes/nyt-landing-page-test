@@ -1,0 +1,200 @@
+
+.first-page-text{
+    position: absolute;
+    width: 800px;
+    max-height: 100%;
+    left: 285px;
+    top: 720px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 50px;
+    line-height: 65px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    padding-top: 0px;
+    margin: -25vh 0px 0px;
+    /* flex-wrap: wrap; */
+}
+.empty-space{
+    height: 200px;
+}
+section{
+    display: table-cell;
+
+}
+
+/* section-1{
+    /* scroll-behavior: smooth; */
+    /* translate: none;
+    rotate: none;
+    scale: none;
+    inset: 0px auto auto 0px;
+    margin: 0px;
+    max-width: 11040px;
+    width: 11040px;
+    max-height: 712px;
+    height: 712px;
+    padding: 0px;
+    transform: translate(0px, 0px);
+}  */
+@media screen and (min-width: 1419.98px){ 
+.first-page-text {
+    font-size: 55px;
+    line-height: 65px;
+}
+}
+
+@media screen and (min-width: 1419.98px){ 
+.last-line-first-page{
+    font-size: 55px;
+    line-height: 65px;
+    transform: translate(-50%, -50%);
+}
+}
+.last-line-first-page{
+    font-family: nyt-cheltenham, NYTCheltenham, cheltenham, sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    width: 100%;
+}
+.header{
+    color: white;
+    padding: 21px 285px;
+    display: flex;
+}
+.jordan-sneakers{
+    background: url('../../Assets/jordan-sneakers.png');
+    /* background-size: cover; */
+    /* background-position: center;
+    display: flex;
+    position: absolute; */
+    /* width: 664px;
+    height: 419px;
+    left: 69px;
+    top: 50rem; */
+    background-position: center;
+    display: flex;
+    position: absolute;
+    width: 564.4px;
+    height: 356.15px;
+    left: 90rem;
+    top: 800px;
+}
+.text-center{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: -130px;
+    top: 80px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.styles-line{
+    position: absolute;
+    width: 196.2px;
+    height: 24.3px;
+    left: 110rem;
+    top: 79rem;
+    font-family: 'NYTKarnak';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 23px;
+    line-height: 25px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+}
+.fight-sneakers-line{
+    position: absolute;
+    width: 360px;
+    height: 102.6px;
+    left: 110rem;
+    top: 84rem;
+    font-family: 'NYTCheltenham';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+}
+.midnight-ball{
+    background: url('../../Assets/mokrimidnightbball110\ 2.png');
+    position: absolute;
+    width: 557px;
+    height: 370px;
+    left: 138rem;
+    top: 45rem;
+    opacity: 0.5;
+}
+.image-596{
+    background: url('../../Assets/image\ 596.png');
+    position: absolute;
+    width: 383px;
+    height: 382px;
+    left: 165rem;
+    top: 1200px;
+
+}
+.basketball-line{
+    position: absolute;
+    width: 400px;
+    height: 154.74px;
+    left: 138rem;
+    top: 1250px;
+    font-family: 'NYTCheltenham';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 32px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+}
+.getty-image{
+    background: url('../../Assets/GettyImages-640699820\ 1.png');
+    position: absolute;
+    width: 305.15px;
+    height: 306px;
+    left: 208rem;
+    top: 50rem;
+    opacity: 0.8;
+  }
+  .getty-text{
+    position: absolute;
+    width: 431.8px;
+    height: 238.85px;
+    left: 185rem;
+    top: 40rem;
+    font-family: 'NYTCheltenham';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 25.5px;
+    line-height: 28px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+  }
+  .athletic-line{
+    top: 25px;
+    color: #ffffff;
+  }
+  .getty-image-second{
+    background: url('../../Assets/GettyImages-89405068\ 1.png');
+    position: absolute;
+    width: 248.2px;
+    height: 165.75px;
+    left: 192rem;
+    top: 1200px;
+  }
