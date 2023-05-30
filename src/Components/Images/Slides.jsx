@@ -36,13 +36,38 @@ const Slides = () => {
 
                 <div className="child2">
                     <div className='jordan-sneakers'></div>
-                    <p className='text-center'> If you understand Sneakers, you start to understand Squeaking, Hardwood, and the art of Kareem’s famous Sky Hook. So you get Flying, our Changing World and Human Evolution, which was shaped by Chewing. So you can understand Gum, and when you realize how much of it is on the Street, you understand why some people never wear their Sneakers. 
+                    <p className='text-center'> If you understand Sneakers, you start to understand Squeaking,
                     </p>
                         <p className='styles-line'>Styles</p>
                         <div className='fight-sneakers-line'>The Fight for Sneakers
                         By Daisuke Wakabayashi 
                         Oct. 15, 2021
                         </div>
+                </div>
+                <div className="child3">
+                    <p className='text-center-second'>
+                    Hardwood, and the art of Kareem’s famous Sky Hook. So you get
+                    </p>
+                </div>
+                <div className="child4">
+                    <p className='text-center-third'>
+                        Flying, our Changing World and Human Evolution, which was
+                    </p>
+                </div>
+                <div className="child5">
+                    <p className='text-center-fourth'>
+                      shaped by Chewing. So you can understand Gum, and when you
+                    </p>
+                </div>
+                <div className="child6">
+                    <p className='text-center-fifth'>
+                    realize how much of it is on the Street, you understand why
+                    </p>
+                </div>
+                <div className="child7">
+                    <p className='text-center-sixth'>
+                    some people never wear their Sneakers.
+                    </p>
                 </div>
             </Slider>
         </div>

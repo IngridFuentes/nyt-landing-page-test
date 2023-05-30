@@ -55,7 +55,7 @@ svg{
     position: absolute;
     width: 8107px;
     height: 97px;
-    left: 3000px;
+    left: 2955px;
     top: 340px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -99,4 +99,124 @@ svg{
     line-height: 32px;
     color: #ffffff;
     mix-blend-mode: normal;
+}
+.child3 {
+    /* float: left; */
+    background-color: rgb(161, 17, 200);
+    width: 200vh;
+    height: 100vh;
+  }
+
+  .text-center-second{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: 273rem;
+    top: 340px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.child4 {
+    /* float: left; */
+    background-color: rgb(155, 158, 249);
+    width: 200vh;
+    height: 100vh;
+  }
+
+  .text-center-third{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: 363rem;
+    top: 340px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.child5 {
+    /* float: left; */
+    background-color: rgb(63, 66, 125);
+    width: 200vh;
+    height: 100vh;
+  }
+
+  .text-center-fourth{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: 452rem;
+    top: 340px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.child6 {
+    /* float: left; */
+    background-color: rgb(157, 158, 196);
+    width: 200vh;
+    height: 100vh;
+  }
+
+  .text-center-fifth{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: 542rem;
+    top: 340px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.child7 {
+    /* float: left; */
+    background-color: rgb(162, 222, 191);
+    width: 200vh;
+    height: 100vh;
+  }
+
+  .text-center-sixth{
+    position: absolute;
+    width: 8107px;
+    height: 97px;
+    left: 633rem;
+    top: 340px;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
