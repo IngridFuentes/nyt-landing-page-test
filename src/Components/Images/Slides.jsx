@@ -36,23 +36,67 @@ const Slides = () => {
 
                 <div className="child2">
                     <div className='jordan-sneakers'></div>
+                    <div className="midnightball-img"></div>
                     <p className='text-center'> If you understand Sneakers, you start to understand Squeaking,
                     </p>
-                        <p className='styles-line'>Styles</p>
-                        <div className='fight-sneakers-line'>The Fight for Sneakers
-                        By Daisuke Wakabayashi 
-                        Oct. 15, 2021
+                        <div className='styles-line'>Styles</div>
+                        <div className='fight-sneakers-line'>The Fight for Sneakers 
+                        <p className="author-line"> By Daisuke Wakabayashi </p>
+                        <p className="date">Oct. 15, 2021</p>
                         </div>
+                        <div className='sports-line'>Sports</div>
+                        <div className='why-basketball-line'> Why Are Basketball Games So Squeaky? Consider the Spiny Lobster 
+                        <p className="author-line"> By John Branch
+                        <p className="date"> March 17, 2017 </p>
+                        </p>
+                        </div>
+
+                        <div className="image-596"></div>
                 </div>
                 <div className="child3">
+                    <div className="basketball-img"></div>
+                    <div className="fire-img"></div>
                     <p className='text-center-second'>
                     Hardwood, and the art of Kareem’s famous Sky Hook. So you get
                     </p>
+                    <div className="kareem-img"></div>
+                    <div className="plane-img"></div>
+                    <div className='sports-line-second'>Sports</div>
+                        <div className='kareem-line'> Kareem Abdul-Jabbar Is Greater Than Any Basketball Record
+                        <p className="author-line"> By Kurt Streeter</p> 
+                        <p className="date"> Feb. 7, 2023  </p>          
+                    </div>
+                    <div className='athletic-line'>The Athletic</div>
+                        <div className='kareem-second-line'> Who really taught Kareem Abdul-Jabbar his hook shot? The answer might depend on whose story you believe
+                        <p className="author-line"> By Joe Vardon </p>
+                        <p className="date"> March 2, 2023 </p>
+                        </div>
                 </div>
                 <div className="child4">
+                    <div className="human-img"></div>
+                    <div className="human-running-img"></div>
+                    <div className="text-staying-aloft">STAYING ALOFT; What Does Keep Them Up There?
+                        <p className="author-line">By Kenneth Chang </p>    
+                        <p className="date"> Dec. 9, 2003 </p>  
+                    </div>
+                    <div className="daily-line">The Daily</div>
+                    <div className="daily-line-second">A ‘Code Red for Humanity’
+                        <p className="author-line"> By The New York Times </p>
+                        <p className="date"> Aug. 13, 2021 </p>
+                    </div>
+                    <div className="wellness-line">Wellness</div>
+                    <div className="wellness-line-second">Running Is a Total Body Affair
+                        <p className="author-line"> By Gretchen Reynolds </p>
+                        <p className="date"> Published Feb. 10, 2021 </p>
+                    </div>
                     <p className='text-center-third'>
                         Flying, our Changing World and Human Evolution, which was
                     </p>
+                    <div className='world-line'>World</div>
+                        <div className='changing-world-line'> Ocean-Eaten Islands, Fire-Scarred Forests: Our Changing World in Pictures
+                        <p className="author-line"> By The New York Times </p>
+                        <p className="date"> Nov. 8, 2022 </p>
+                    </div>
                 </div>
                 <div className="child5">
                     <p className='text-center-fourth'>
