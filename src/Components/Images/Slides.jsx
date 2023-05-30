@@ -96,22 +96,50 @@ const Slides = () => {
                         <div className='changing-world-line'> Ocean-Eaten Islands, Fire-Scarred Forests: Our Changing World in Pictures
                         <p className="author-line"> By The New York Times </p>
                         <p className="date"> Nov. 8, 2022 </p>
-                    </div>
+                        </div>
                 </div>
                 <div className="child5">
+                    <div className="skull-img"></div>
+                    <div className="gum-wrapper-img"></div>
+                    <div className="skull-img-line"> Science </div>
+                    <div className="chewing-line">How Chewing Shaped Human Evolution
+                        <p className="author-line">  By Kate Golembiewski </p> 
+                        <p className="date">  Published Aug. 17, 2022 </p>
+                    </div>
+                    <div className="gum-wrapper-line"> Style </div>
+                    <div className="quit-chewing-line">I Quit Chewing Gum
+                        <p className="author-line"> By Alexandra Jacobs </p> 
+                        <p className="date">  Jan. 20, 2020 </p>
+                    </div>
                     <p className='text-center-fourth'>
                       shaped by Chewing. So you can understand Gum, and when you
                     </p>
                 </div>
                 <div className="child6">
+                    <div className="street-gum-img"></div>
+                    <div className="street-gum-line"> New York </div>
+                    <div className="street-ny-line">Out, Damned Spot
+                        <p className="author-line"> By Deborah Stead </p> 
+                        <p className="date">  Jan. 26, 2003 </p>
+                    </div>
                     <p className='text-center-fifth'>
                     realize how much of it is on the Street, you understand why
                     </p>
                 </div>
                 <div className="child7">
+                    <div className="sneakers-img"></div>
+                    <div className="technology-line"> Technology </div>
+                    <div className="wrapped-sneakers-line">Buy Low-Tops, Sell High-Tops: StockX Sneaker Exchange Is Worth $1 Billion
+                        <p className="author-line"> By Erin Griffith</p>
+                        <p className="date">June 26, 2019 </p>
+                    </div>
                     <p className='text-center-sixth'>
                     some people never wear their Sneakers.
                     </p>
+                </div>
+                <div className="child8">
+                    <div className="last-line"> More of life brought to life. </div>
+                    <div className="video-sneakers-img"></div>
                 </div>
             </Slider>
         </div>
