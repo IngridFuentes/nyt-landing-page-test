@@ -1,4 +1,7 @@
 
+.slick-slide {
+    height: 100% !important; 
+  }
 .slider-item{
     background-color: rgb(0, 0, 0);
     /* width: 200vh; */
@@ -82,8 +85,7 @@ svg{
     mix-blend-mode: normal;
   }
   .child2 {
-    /* float: left; */
-    background-color: rgb(242, 190, 190);
+    background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 100vh;
   }
@@ -169,7 +171,7 @@ svg{
 }
 .slick-prev:before,
 .slick-next:before {
-  color: blue!important;
+  color: rgb(89, 0, 255)!important;
 }
 .fight-sneakers-line{
     position: absolute;
@@ -197,7 +199,7 @@ svg{
     max-width: 100%;
 }
 .child3 {
-    background-color: rgb(161, 17, 200);
+    background-color: rgb(6, 6, 6);
     width: 200vh;
     height: 100vh;
   }
@@ -341,7 +343,7 @@ svg{
     mix-blend-mode: normal;
 }
 .child4 {
-    background-color: rgb(155, 158, 249);
+    background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 100vh;
   }
@@ -457,7 +459,7 @@ svg{
     mix-blend-mode: normal;
 }
 .child5 {
-    background-color: rgb(63, 66, 125);
+    background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 100vh;
   }
@@ -554,7 +556,7 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .child6 {
-    background-color: rgb(157, 158, 196);
+    background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 100vh;
   }
@@ -613,7 +615,7 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .child7 {
-    background-color: rgb(162, 222, 191);
+    background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 100vh;
   }
@@ -673,10 +675,10 @@ svg{
     mix-blend-mode: normal;
 }
 .child8{
-    background-color: rgb(168, 138, 226);
+    background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 210vh;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }
 .last-line{
     position: absolute;

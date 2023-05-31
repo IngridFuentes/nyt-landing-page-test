@@ -1,16 +1,13 @@
 html{
   height: 100%;
-  /* scroll-behavior: smooth; */
-    /* overscroll-behavior: none; */
 }
 body{
-  /* /* overflow: hidden; */
-  /* overflow: scroll; */
   margin-top: 0;
   margin-bottom: 0;
   margin-right: 0;
   margin-left: 0;
 }
+
 
 /* body{
   overflow: hidden;
