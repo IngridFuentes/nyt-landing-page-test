@@ -1,6 +1,6 @@
 # NYT Landing Page
 
-This project was create with React, React Slick, HTML, CSS
+This project was created with React, React Slick, HTML, CSS
 
 ## Available Scripts
 
