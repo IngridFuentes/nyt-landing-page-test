@@ -1,18 +1,19 @@
-.container{
-    /* max-width: 100%; */
-}
+
 .slider-item{
-    /* float: left; */
     background-color: rgb(0, 0, 0);
-    /* width: 205vh; */
-    min-height: 100vh;
+    /* width: 200vh; */
+    /* min-height: 100vh; */
+    min-height: 120vh;
 }
+
 svg{
-    margin-left: 60px
+    margin-left: 17rem;
+    margin-top: 25px;
 }
 
   .first-page-text{
     position: absolute;
+    width: 900px;
     max-width: 1000px;
     max-height: 100%;
     /* left: 1500px; */
@@ -34,11 +35,11 @@ svg{
     color: rgb(255, 255, 255);
     margin: 0px;
     position: absolute;
-    top: 480px;
+    top: 32rem;
     /* left: 0px; */
     max-width: 100%;
   }
-@media only screen (min-width: 300px) and (max-width: 1024px){
+@media (min-width: 300px) and (max-width: 1024px){
     .first-page-text{
         left: 37.5rem;
         top: 27rem;
@@ -93,7 +94,7 @@ svg{
     position: absolute;
     width: 564.4px;
     min-height: 500px;
-    /* left: 187rem; */
+    left: 100rem;
     top: 120px;
     max-width: 100%;
 }
@@ -102,17 +103,17 @@ svg{
     background-position: center;
     display: flex;
     position: absolute;
-    max-width: 557px;
+    width: 557px;
     min-height: 370px;
-    /* left: 3800px; */
+    left: 145rem;
     top: 80px;
 }
 .text-center{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    /* left: 2955px; */
-    top: 300px;
+    left: 91rem;
+    top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -128,7 +129,7 @@ svg{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
-    /* left: 3250px; */
+    left: 130rem;
     top: 35rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -142,7 +143,7 @@ svg{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
-    /* left: 3800px; */
+    left: 160rem;
     top: 34rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -156,7 +157,7 @@ svg{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
-    /* left: 3800px; */
+    left: 160rem;
     top: 36rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -174,7 +175,7 @@ svg{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
-    /* left: 3250px; */
+    left: 130rem;
     top: 37rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -191,12 +192,11 @@ svg{
     position: absolute;
     width: 383px;
     min-height: 382px;
-    /* left: 4200px; */
-    top: 490px;
+    left: 200rem;
+    top: 27rem;
     max-width: 100%;
 }
 .child3 {
-    /* float: left; */
     background-color: rgb(161, 17, 200);
     width: 200vh;
     height: 100vh;
@@ -207,7 +207,7 @@ svg{
     max-width: 8107px;
     min-height: 97px;
     /* left: 273rem; */
-    top: 340px;
+    top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -226,16 +226,16 @@ svg{
     position: absolute;
     width: 291.99px;
     min-height: 195px;
-    /* left: 4650px; */
-    top: 490px;
+    left: 228rem;
+    top: 27rem;
     max-width: 100%;
 }
 .sports-line-second{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
-    /* left: 5000px; */
-    top: 34rem;
+    left: 254rem;
+    top: 30rem;
     font-family: 'NYTKarnak';
     font-style: normal;
     font-weight: 800;
@@ -248,8 +248,8 @@ svg{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
-    /* left: 5000px; */
-    top: 36rem;
+    left: 254rem;
+    top: 33rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
@@ -265,16 +265,16 @@ svg{
     position: absolute;
     width: 359px;
     min-height: 360px;
-    /* left: 5000px; */
-    top: 150px;
+    left: 240rem;
+    top: 3rem;
     max-width: 100%;
 }
 .athletic-line{
     position: absolute;
     max-width: 130px;
     min-height: 27px;
-    /* left: 4800px; */
-    top: 5px;
+    left: 200rem;
+    top: 2rem;
     color: #ffffff;
     font-weight: 800;
     font-size: 23px;
@@ -283,9 +283,8 @@ svg{
     position: absolute;
     max-width: 508px;
     min-height: 281px;
-    /* left: 4800px; */
-    top: 40px;
-
+    left: 200rem;
+    top: 4rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
@@ -299,7 +298,7 @@ svg{
     position: absolute;
     width: 346.67px;
     min-height: 195px;
-    /* left: 5380px; */
+    left: 274rem;
     top: 30.5rem;
     max-width: 100%;
 }
@@ -308,15 +307,15 @@ svg{
     position: absolute;
     width: 1200px;
     min-height: 800px;
-    /* left: 5540px; */
+    left: 275rem;
     max-width: 100%;
 }
 .wellness-line{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    /* left: 6558px; */
-    top: 10px;
+    left: 322rem;
+    top: 1rem;
 
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -330,8 +329,8 @@ svg{
     position: absolute;
     max-width: 315px;
     min-height: 27px;
-    /* left: 6558px; */
-    top: 40px;
+    left: 322rem;
+    top: 3rem;
 
     font-family: 'NYTKarnak';
     font-style: italic;
@@ -342,7 +341,6 @@ svg{
     mix-blend-mode: normal;
 }
 .child4 {
-    /* float: left; */
     background-color: rgb(155, 158, 249);
     width: 200vh;
     height: 100vh;
@@ -353,7 +351,7 @@ svg{
     max-width: 8107px;
     min-height: 97px;
     /* left: 363rem; */
-    top: 340px;
+    top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -369,8 +367,8 @@ svg{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    /* left: 5850px; */
-    top: 560px;
+    left: 297rem;
+    top: 34rem;
 
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -384,13 +382,13 @@ svg{
     position: absolute;
     max-width: 533px;
     min-height: 186px;
-    /* left: 5850px; */
-    top: 590px;
+    left: 297rem;
+    top: 36rem;
 
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 33px;
     color: #FFFFFF;
     mix-blend-mode: normal;
@@ -400,7 +398,7 @@ svg{
     position: absolute;
     width: 420px;
     min-height: 235px;
-    /* left: 410rem; */
+    left: 326rem;
     top: 470px;
     max-width: 100%;
 }
@@ -409,21 +407,21 @@ svg{
     position: absolute;
     width: 311.8px;
     min-height: 175px;
-    /* left: 410rem; */
-    top: 130px;
+    left: 322.5rem;
+    top: 9rem;
     max-width: 100%;
 }
 .text-staying-aloft{
     position: absolute;
     max-width: 400px;
     min-height: 186px;
-    /* left: 5500px; */
-    top: 50px;
+    left: 272rem;
+    top: 4rem;
 
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 33px;
     color: #FFFFFF;
     mix-blend-mode: normal;
@@ -432,8 +430,8 @@ svg{
     position: absolute;
     width: 218px;
     min-height: 27px;
-    /* left: 6050px; */
-    top: 50px;
+    left: 300rem;
+    top: 3rem;
     font-family: 'NYTKarnak';
     font-style: normal;
     font-weight: 800;
@@ -446,20 +444,19 @@ svg{
     position: absolute;
     width: 533px;
     min-height: 101px;
-    /* left: 6050px; */
-    top: 100px;
+    left: 300rem;
+    top: 5rem;
 
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 33px;
     color: #FFFFFF;
 
     mix-blend-mode: normal;
 }
 .child5 {
-    /* float: left; */
     background-color: rgb(63, 66, 125);
     width: 200vh;
     height: 100vh;
@@ -470,7 +467,7 @@ svg{
     position: absolute;
     width: 535px;
     min-height: 714.91px;
-    /* left: 458rem; */
+    left: 370rem;
     top: 10px;
     max-width: 100%;
   }
@@ -478,7 +475,7 @@ svg{
     position: absolute;
     width: 218px;
     min-height: 27px;
-    /* left: 460rem; */
+    left: 368rem;
     top: 34rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -492,7 +489,7 @@ svg{
     position: absolute;
     width: 460px;
     min-height: 186px;
-    /* left: 460rem; */
+    left: 368rem;
     top: 36rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -507,7 +504,7 @@ svg{
     position: absolute;
     width: 605px;
     min-height: 759.56px;
-    /* left: 498rem; */
+    left: 410rem;
     top: 10px;
     max-width: 100%;
   }
@@ -515,8 +512,8 @@ svg{
     position: absolute;
     width: 218px;
     min-height: 27px;
-    /* left: 512rem; */
-    top: 3rem;
+    left: 423rem;
+    top: 2rem;
     font-family: 'NYTKarnak';
     font-style: normal;
     font-weight: 800;
@@ -529,8 +526,8 @@ svg{
     position: absolute;
     width: 460px;
     min-height: 186px;
-    /* left: 512rem; */
-    top: 5rem;
+    left: 423rem;
+    top: 4rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
@@ -544,7 +541,7 @@ svg{
     width: 8107px;
     min-height: 97px;
     /* left: 452rem; */
-    top: 340px;
+    top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -557,7 +554,6 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .child6 {
-    /* float: left; */
     background-color: rgb(157, 158, 196);
     width: 200vh;
     height: 100vh;
@@ -568,15 +564,15 @@ svg{
     position: absolute;
     width: 941px;
     min-height: 825px;
-    /* left: 545rem; */
+    left: 465rem;
     max-width: 100%;
   }
   .street-gum-line{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    /* left: 568rem; */
-    top: 35rem;
+    left: 480rem;
+    top: 33rem;
     font-family: 'NYTKarnak';
     font-style: normal;
     font-weight: 800;
@@ -589,8 +585,8 @@ svg{
     position: absolute;
     max-width: 460px;
     min-height: 186px;
-    /* left: 568rem; */
-    top: 37rem;
+    left: 480rem;
+    top: 35rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
     font-weight: 700;
@@ -604,7 +600,7 @@ svg{
     max-width: 8107px;
     min-height: 97px;
     /* left: 542rem; */
-    top: 340px;
+    top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -617,7 +613,6 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .child7 {
-    /* float: left; */
     background-color: rgb(162, 222, 191);
     width: 200vh;
     height: 100vh;
@@ -628,7 +623,7 @@ svg{
     max-width: 8107px;
     min-height: 97px;
     /* left: 633rem; */
-    top: 340px;
+    top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -653,7 +648,7 @@ svg{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    /* left: 660rem; */
+    left: 565rem;
     top: 5rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -667,7 +662,7 @@ svg{
     position: absolute;
     max-width: 400px;
     min-height: 170px;
-    /* left: 660rem; */
+    left: 565rem;
     top: 7rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -680,14 +675,15 @@ svg{
 .child8{
     background-color: rgb(168, 138, 226);
     width: 200vh;
-    height: 150vh;
+    height: 210vh;
+    overflow-y: hidden;
 }
 .last-line{
     position: absolute;
     max-width: 793px;
     min-height: 101px;
-    /* left: 749rem; */
-    top: 2rem;
+    left: 662rem;
+    top: 15rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
@@ -704,7 +700,93 @@ svg{
     position: absolute;
     width: 1080px;
     min-height: 610px;
-    /* left: 733rem; */
-    top: 7rem;
+    left: 645rem;
+    top: 25rem;
     max-width: 100%;
+}
+.grey-sq{
+    background: url('../../Assets/Rectangle 3.png');
+    position: absolute;
+    width: 100%;
+    height: 240px;
+    top: 63rem;
+}
+.white-sq{
+    background: url('../../Assets/Rectangle 19.png');
+    position: absolute;
+    width: 100%;
+    height: 332px;
+    left: 0px;
+    top: 78rem;
+}
+.text-on-greysq{
+    position: absolute;
+    width: 831px;
+    height: 25px;
+    left: 20rem;
+    top: 4rem;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28.8px;
+    line-height: 34px;
+    text-align: center;
+
+    color: #000000;
+}
+.nyt-logo{
+    position: absolute;
+    left: 630rem;
+    top: 0rem;
+}
+.year{
+    left: 647rem;
+    position: absolute;
+    top: 4rem;
+}
+.nyt-sensitive-user-info{
+    position: absolute;
+    left: 647rem;
+    width: 350px;
+    top: 6rem;
+    bottom: 4.09%;
+
+    font-family: 'NYTFranklin';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+
+    color: #000000;
+}
+.nyt-company-line-footer{
+    position: absolute;
+    width: 250px;
+    height: 131px;
+    left: 675rem;
+    font-family: 'NYTFranklin';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    color: #000000;
+
+}
+.about-footer{
+    font-weight: 700;
+}
+.questions-footer{
+    position: absolute;
+    width: 250px;
+    height: 131px;
+    left: 695rem;
+    font-family: 'NYTFranklin';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    color: #000000;
+}
+.help-line-footer{
+    font-weight: 700;
 }
