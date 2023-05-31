@@ -7,7 +7,7 @@
 }
 
 svg{
-    margin-left: 17rem;
+    margin-left: 15rem;
     margin-top: 25px;
 }
 
@@ -16,7 +16,7 @@ svg{
     width: 900px;
     max-width: 1000px;
     max-height: 100%;
-    /* left: 1500px; */
+    left: 15rem;
     top: 300px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -736,7 +736,7 @@ svg{
 }
 .nyt-logo{
     position: absolute;
-    left: 630rem;
+    left: 632rem;
     top: 0rem;
 }
 .year{
