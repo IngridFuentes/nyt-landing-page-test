@@ -15,7 +15,7 @@ svg{
     position: absolute;
     max-width: 1000px;
     max-height: 100%;
-    left: 1500px;
+    /* left: 1500px; */
     top: 300px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -35,7 +35,7 @@ svg{
     margin: 0px;
     position: absolute;
     top: 480px;
-    left: 0px;
+    /* left: 0px; */
     max-width: 100%;
   }
 @media only screen (min-width: 300px) and (max-width: 1024px){
@@ -93,7 +93,7 @@ svg{
     position: absolute;
     width: 564.4px;
     min-height: 500px;
-    left: 187rem;
+    /* left: 187rem; */
     top: 120px;
     max-width: 100%;
 }
@@ -104,14 +104,14 @@ svg{
     position: absolute;
     max-width: 557px;
     min-height: 370px;
-    left: 3800px;
+    /* left: 3800px; */
     top: 80px;
 }
 .text-center{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    left: 2955px;
+    /* left: 2955px; */
     top: 300px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -128,7 +128,7 @@ svg{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
-    left: 3250px;
+    /* left: 3250px; */
     top: 35rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -142,7 +142,7 @@ svg{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
-    left: 3800px;
+    /* left: 3800px; */
     top: 34rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -156,7 +156,7 @@ svg{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
-    left: 3800px;
+    /* left: 3800px; */
     top: 36rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -174,7 +174,7 @@ svg{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
-    left: 3250px;
+    /* left: 3250px; */
     top: 37rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -191,7 +191,7 @@ svg{
     position: absolute;
     width: 383px;
     min-height: 382px;
-    left: 4200px;
+    /* left: 4200px; */
     top: 490px;
     max-width: 100%;
 }
@@ -206,7 +206,7 @@ svg{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    left: 273rem;
+    /* left: 273rem; */
     top: 340px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -226,7 +226,7 @@ svg{
     position: absolute;
     width: 291.99px;
     min-height: 195px;
-    left: 4650px;
+    /* left: 4650px; */
     top: 490px;
     max-width: 100%;
 }
@@ -234,7 +234,7 @@ svg{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
-    left: 5000px;
+    /* left: 5000px; */
     top: 34rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -248,7 +248,7 @@ svg{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
-    left: 5000px;
+    /* left: 5000px; */
     top: 36rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -265,7 +265,7 @@ svg{
     position: absolute;
     width: 359px;
     min-height: 360px;
-    left: 5000px;
+    /* left: 5000px; */
     top: 150px;
     max-width: 100%;
 }
@@ -273,7 +273,7 @@ svg{
     position: absolute;
     max-width: 130px;
     min-height: 27px;
-    left: 4800px;
+    /* left: 4800px; */
     top: 5px;
     color: #ffffff;
     font-weight: 800;
@@ -283,7 +283,7 @@ svg{
     position: absolute;
     max-width: 508px;
     min-height: 281px;
-    left: 4800px;
+    /* left: 4800px; */
     top: 40px;
 
     font-family: 'NYTCheltenham';
@@ -299,7 +299,7 @@ svg{
     position: absolute;
     width: 346.67px;
     min-height: 195px;
-    left: 5380px;
+    /* left: 5380px; */
     top: 30.5rem;
     max-width: 100%;
 }
@@ -308,14 +308,14 @@ svg{
     position: absolute;
     width: 1200px;
     min-height: 800px;
-    left: 5540px;
+    /* left: 5540px; */
     max-width: 100%;
 }
 .wellness-line{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    left: 6558px;
+    /* left: 6558px; */
     top: 10px;
 
     font-family: 'NYTKarnak';
@@ -330,7 +330,7 @@ svg{
     position: absolute;
     max-width: 315px;
     min-height: 27px;
-    left: 6558px;
+    /* left: 6558px; */
     top: 40px;
 
     font-family: 'NYTKarnak';
@@ -352,7 +352,7 @@ svg{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    left: 363rem;
+    /* left: 363rem; */
     top: 340px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -369,7 +369,7 @@ svg{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    left: 5850px;
+    /* left: 5850px; */
     top: 560px;
 
     font-family: 'NYTKarnak';
@@ -384,7 +384,7 @@ svg{
     position: absolute;
     max-width: 533px;
     min-height: 186px;
-    left: 5850px;
+    /* left: 5850px; */
     top: 590px;
 
     font-family: 'NYTCheltenham';
@@ -400,7 +400,7 @@ svg{
     position: absolute;
     width: 420px;
     min-height: 235px;
-    left: 410rem;
+    /* left: 410rem; */
     top: 470px;
     max-width: 100%;
 }
@@ -409,7 +409,7 @@ svg{
     position: absolute;
     width: 311.8px;
     min-height: 175px;
-    left: 410rem;
+    /* left: 410rem; */
     top: 130px;
     max-width: 100%;
 }
@@ -417,7 +417,7 @@ svg{
     position: absolute;
     max-width: 400px;
     min-height: 186px;
-    left: 5500px;
+    /* left: 5500px; */
     top: 50px;
 
     font-family: 'NYTCheltenham';
@@ -432,7 +432,7 @@ svg{
     position: absolute;
     width: 218px;
     min-height: 27px;
-    left: 6050px;
+    /* left: 6050px; */
     top: 50px;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -446,7 +446,7 @@ svg{
     position: absolute;
     width: 533px;
     min-height: 101px;
-    left: 6050px;
+    /* left: 6050px; */
     top: 100px;
 
     font-family: 'NYTCheltenham';
@@ -470,7 +470,7 @@ svg{
     position: absolute;
     width: 535px;
     min-height: 714.91px;
-    left: 458rem;
+    /* left: 458rem; */
     top: 10px;
     max-width: 100%;
   }
@@ -478,7 +478,7 @@ svg{
     position: absolute;
     width: 218px;
     min-height: 27px;
-    left: 460rem;
+    /* left: 460rem; */
     top: 34rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -492,7 +492,7 @@ svg{
     position: absolute;
     width: 460px;
     min-height: 186px;
-    left: 460rem;
+    /* left: 460rem; */
     top: 36rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -507,7 +507,7 @@ svg{
     position: absolute;
     width: 605px;
     min-height: 759.56px;
-    left: 498rem;
+    /* left: 498rem; */
     top: 10px;
     max-width: 100%;
   }
@@ -515,7 +515,7 @@ svg{
     position: absolute;
     width: 218px;
     min-height: 27px;
-    left: 512rem;
+    /* left: 512rem; */
     top: 3rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -529,7 +529,7 @@ svg{
     position: absolute;
     width: 460px;
     min-height: 186px;
-    left: 512rem;
+    /* left: 512rem; */
     top: 5rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -543,7 +543,7 @@ svg{
     position: absolute;
     width: 8107px;
     min-height: 97px;
-    left: 452rem;
+    /* left: 452rem; */
     top: 340px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -568,14 +568,14 @@ svg{
     position: absolute;
     width: 941px;
     min-height: 825px;
-    left: 545rem;
+    /* left: 545rem; */
     max-width: 100%;
   }
   .street-gum-line{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    left: 568rem;
+    /* left: 568rem; */
     top: 35rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -589,7 +589,7 @@ svg{
     position: absolute;
     max-width: 460px;
     min-height: 186px;
-    left: 568rem;
+    /* left: 568rem; */
     top: 37rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -603,7 +603,7 @@ svg{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    left: 542rem;
+    /* left: 542rem; */
     top: 340px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -627,7 +627,7 @@ svg{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    left: 633rem;
+    /* left: 633rem; */
     top: 340px;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -645,7 +645,7 @@ svg{
     position: absolute;
     width: 876px;
     min-height: 493px;
-    left: 630rem;
+    /* left: 630rem; */
     top: 8rem;
     max-width: 100%;
 }
@@ -653,7 +653,7 @@ svg{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
-    left: 660rem;
+    /* left: 660rem; */
     top: 5rem;
     font-family: 'NYTKarnak';
     font-style: normal;
@@ -667,7 +667,7 @@ svg{
     position: absolute;
     max-width: 400px;
     min-height: 170px;
-    left: 660rem;
+    /* left: 660rem; */
     top: 7rem;
     font-family: 'NYTCheltenham';
     font-style: italic;
@@ -686,7 +686,7 @@ svg{
     position: absolute;
     max-width: 793px;
     min-height: 101px;
-    left: 749rem;
+    /* left: 749rem; */
     top: 2rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
@@ -704,7 +704,7 @@ svg{
     position: absolute;
     width: 1080px;
     min-height: 610px;
-    left: 733rem;
+    /* left: 733rem; */
     top: 7rem;
     max-width: 100%;
 }

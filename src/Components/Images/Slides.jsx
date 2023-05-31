@@ -9,15 +9,14 @@ const Slides = () => {
     const settings = {
         dots: false,
         infinite: false,
-        speed: 2000,
+        speed: 1500,
         slidesToShow: 1,
         slidesToScroll: 1,
         adaptiveHeight: true,
-        // swipeToSlide: true,
     }
     const slider = useRef(null);
 
-function scroll(e){
+const scroll = (e) => {
     if (slider === null)
         return 0;
 
@@ -53,7 +52,6 @@ useEffect(() => {
                         <p className='last-line-first-page'>More of life brought to life. </p>
                         </h1>
                 </div>
-
                 <div className="child2">
                     <div className='jordan-sneakers'></div>
                     <div className="midnightball-img"></div>

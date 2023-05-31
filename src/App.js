@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-// import Images from './Components/Images/Images';
+import Images from './Components/Images/Images';
 // import Footer from './Components/Footer/Footer';
 // import File from './Components/Images/File';
 import './App.css';
@@ -16,6 +16,7 @@ function App() {
 
   return (
     <div className="App">
+      {/* <Images /> */}
       <Slides />
     </div>
   );

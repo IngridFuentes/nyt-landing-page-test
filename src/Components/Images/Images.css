@@ -69,7 +69,7 @@ section{
     display: flex;
 }
 .jordan-sneakers{
-    background: url('../../Assets/jordan-sneakers.png');
+    /* sbackground: url('../../Assets/jordan-sneakers.png'); */
     /* background-size: cover; */
     /* background-position: center;
     display: flex;
