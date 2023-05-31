@@ -57,17 +57,27 @@ svg{
         margin-left: 10rem;
     }
     .jordan-sneakers{
-        width: 100%;
+        position: absolute;
+        width: 284px;
         height: 179.67px;
         margin-left: -22rem;
-        margin-top: 4rem;
+        margin-top: 10rem;
     }
     .text-center{
         margin-left: -15rem;
-        margin-top: 12rem;
+        margin-top: -8rem;
+        font-size: 45px;
     }
     .text-center-second{
         left: 273rem;
+    }
+    .styles-line{
+        margin-top: 15rem;
+        margin-left: -50rem;
+    }
+    .fight-sneakers-line{
+        margin-top: 15rem;
+        margin-left: -50rem;
     }
 }
   .author-line{
