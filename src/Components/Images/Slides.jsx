@@ -13,6 +13,7 @@ const Slides = () => {
         slidesToShow: 1,
         slidesToScroll: 1,
         adaptiveHeight: true,
+       
     }
     const slider = useRef(null);
 
