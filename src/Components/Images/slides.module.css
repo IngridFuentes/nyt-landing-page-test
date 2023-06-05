@@ -4,6 +4,7 @@
     /* width: 200vh; */
     /* min-height: 100vh; */
     min-height: 120vh;
+    display: flex;
 }
 
 svg{
@@ -11,7 +12,7 @@ svg{
     margin-top: 25px;
 }
 
-  .first-page-text{
+  .firstPageText{
     position: absolute;
     width: 900px;
     max-width: 1000px;
@@ -39,7 +40,7 @@ svg{
     /* left: 0px; */
     max-width: 100%;
   }
-@media only screen and (min-width: 300px) and (max-width: 1024px){
+/* @media only screen and (min-width: 300px) {
     .first-page-text{
         left: 5rem;
         top: 27rem;
@@ -64,12 +65,13 @@ svg{
         margin-top: 10rem;
     }
     .text-center{
-        margin-left: -15rem;
-        margin-top: -8rem;
-        font-size: 45px;
+        margin-left: -18rem;
+        margin-top: -6rem;
     }
     .text-center-second{
-        left: 273rem;
+        margin-left: 80rem;
+        margin-top: -6rem;
+        font-size: 45px;
     }
     .styles-line{
         margin-top: 15rem;
@@ -79,7 +81,64 @@ svg{
         margin-top: 15rem;
         margin-left: -50rem;
     }
-}
+    .midnightball-img{
+        margin-top: 18rem;
+        margin-left: -29rem;
+    }
+    .sports-line{
+        margin-top: 18rem;
+        margin-left: -43rem;
+    }
+    .why-basketball-line{
+        margin-left: -43rem;
+        margin-top: 18rem;
+    }
+    .next-first-text-center{
+        margin-left: -12rem;
+        margin-top: -5rem;
+        width: 40rem;
+    }
+    .image-596{
+        margin-left: -45rem;
+        margin-top: -4rem;
+    }
+    .kareem-art-line{
+        margin-left: 20rem;
+    }
+    .kareem-art-line{
+        margin-left: 115rem;
+        margin-top: -6rem;
+        width: 35rem;
+    }
+    .athletic-line{
+        margin-left: -8rem;
+        margin-top: 18rem;
+    }
+    .kareem-second-line{
+        margin-left: -8rem;
+        margin-top: 18rem;
+        width: 20rem;
+    }
+    .kareem-img{
+        margin-left: -20rem;
+        margin-top: 20rem;
+    }
+    .basketball-img{
+        margin-left: -48rem;
+        margin-top: 32rem;
+    }
+    .sports-line-second{
+        margin-left: -62rem;
+        margin-top: 28rem;
+    }
+    .kareem-line{
+        margin-left: -62rem;
+        margin-top: 26.5rem;
+    }
+    .plane-img{
+        margin-left: -50rem;
+    }
+} */
   .author-line{
     margin-top: -5px;
     font-family: 'NYTFranklin';
@@ -99,9 +158,10 @@ svg{
     mix-blend-mode: normal;
   }
   .child2 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(28, 224, 136);
     width: 200vh;
     height: 100vh;
+    display: flex;
   }
   .jordan-sneakers{
     background: url('../../Assets/jordanSneakers.png');
@@ -128,12 +188,30 @@ svg{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
-    left: 91rem;
+    left: 95rem;
     top: 18rem;
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
-    font-size: 55px;
+    /* font-size: 55px; */
+    font-size: 3rem;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.next-first-text-center{
+    position: absolute;
+    max-width: 8107px;
+    min-height: 97px;
+    left: 128rem;
+    top: 20rem;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3rem;
     line-height: 65px;
     display: flex;
     align-items: center;
@@ -213,7 +291,7 @@ svg{
     max-width: 100%;
 }
 .child3 {
-    background-color: rgb(6, 6, 6);
+    background-color: rgb(206, 29, 29);
     width: 200vh;
     height: 100vh;
   }
@@ -227,7 +305,7 @@ svg{
     font-family: 'NYTCheltenham';
     font-style: normal;
     font-weight: 300;
-    font-size: 55px;
+    font-size: 3rem;
     line-height: 65px;
     display: flex;
     align-items: center;
@@ -235,6 +313,24 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+.kareem-art-line{
+    position: absolute;
+    max-width: 8107px;
+    min-height: 97px;
+    /* left: 273rem; */
+    top: 18rem;
+    font-family: 'NYTCheltenham';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 3rem;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
 .kareem-img{
     background: url('../../Assets/GettyImages-89405068 1.png');
     background-position: center;
@@ -357,7 +453,7 @@ svg{
     mix-blend-mode: normal;
 }
 .child4 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(226, 19, 171);
     width: 200vh;
     height: 100vh;
   }
@@ -473,7 +569,7 @@ svg{
     mix-blend-mode: normal;
 }
 .child5 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(175, 212, 25);
     width: 200vh;
     height: 100vh;
   }
@@ -570,7 +666,7 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .child6 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(26, 127, 235);
     width: 200vh;
     height: 100vh;
   }
@@ -629,7 +725,7 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .child7 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(214, 159, 231);
     width: 200vh;
     height: 100vh;
   }
@@ -726,14 +822,18 @@ svg{
     width: 100%;
     height: 240px;
     top: 63rem;
+    margin-left: 1rem;
 }
 .white-sq{
-    background: url('../../Assets/Rectangle 19.png');
-    position: absolute;
+    /* background: url('../../Assets/Rectangle 19.png'); */
+    /* position: absolute; */
     width: 100%;
     height: 332px;
-    left: 0px;
-    top: 78rem;
+    /* left: 0px;
+    top: 78rem; */
+    margin-left: 1rem;
+    background-color: #FFFFFF;
+    margin-top: 75rem;
 }
 .text-on-greysq{
     position: absolute;
