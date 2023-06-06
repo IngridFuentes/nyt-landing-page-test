@@ -1,16 +1,16 @@
 import React from 'react';
 import LogoBlack from '../../Assets/LogoBlack.svg' ;
-import styles from './slides.module.css';
+import styles from './SliderItemFirst.module.css';
 import { text } from './Data';
 
 const SliderItemFirst = () => {
     return(
         <div className="slider-item" style={{ width: 1400 }}>
             <img src={LogoBlack} alt="" />
-          <h1 pageText={text.firstPageText} className={styles.firstPageText} >
-            
-            <p className="last-line-first-page">
-              More of life brought to life.{" "}
+          <h1 className={styles.firstPageText}>
+              {text.firstPageText}
+            <p className={styles.lastLineFirstPage} > 
+              {text.lastLineFirstPage}
             </p>
           </h1>
         </div>
