@@ -290,13 +290,13 @@ svg{
     top: 27rem;
     max-width: 100%;
 }
-.child3 {
+.item3 {
     background-color: rgb(206, 29, 29);
     width: 200vh;
     height: 100vh;
   }
 
-  .text-center-second{
+  .textCenterSecond{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
@@ -313,7 +313,7 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.kareem-art-line{
+.kareemArtLine{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
@@ -331,7 +331,7 @@ svg{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.kareem-img{
+.kareemImg{
     background: url('../../Assets/GettyImages-89405068 1.png');
     background-position: center;
     display: flex;
@@ -342,7 +342,7 @@ svg{
     top: 27rem;
     max-width: 100%;
 }
-.sports-line-second{
+.sportsLineSecond{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
@@ -356,7 +356,7 @@ svg{
     color: #ffffff;
     mix-blend-mode: normal;
 }
-.kareem-line{
+.kareemLine{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
@@ -370,7 +370,7 @@ svg{
     color: #ffffff;
     mix-blend-mode: normal;
 }
-.basketball-img{
+.basketballImg{
     background: url('../../Assets/GettyImages-640699820 1.png');
     background-position: center;
     display: flex;
@@ -381,7 +381,7 @@ svg{
     top: 3rem;
     max-width: 100%;
 }
-.athletic-line{
+.athleticLine{
     position: absolute;
     max-width: 130px;
     min-height: 27px;
@@ -405,7 +405,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.plane-img{
+.planeImg{
     background: url('../../Assets/planefade-1920-LP 1.png');
     position: absolute;
     width: 346.67px;
@@ -414,7 +414,7 @@ svg{
     top: 30.5rem;
     max-width: 100%;
 }
-.fire-img{
+.fireImg{
     background: url('../../Assets/Changing-World 1.png');
     position: absolute;
     width: 1200px;
@@ -422,7 +422,7 @@ svg{
     left: 275rem;
     max-width: 100%;
 }
-.wellness-line{
+.wellnessLine{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
@@ -437,7 +437,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.wellness-line-second{
+.wellnessLineSecond{
     position: absolute;
     max-width: 315px;
     min-height: 27px;
@@ -452,13 +452,13 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.child4 {
-    background-color: rgb(226, 19, 171);
-    width: 200vh;
-    height: 100vh;
+    .item4 {
+        background-color: rgb(226, 19, 171);
+        width: 200vh;
+        height: 100vh;
   }
 
-  .text-center-third{
+  .textCenterThird{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;

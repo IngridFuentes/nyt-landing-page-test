@@ -101,7 +101,7 @@ const Slides = () => {
 
           <div className="image-596"></div>
         </div> */}
-        <div className="child3">
+        {/* <div className="child3">
           <div className="basketball-img"></div>
           <div className="fire-img"></div>
           <m.p
@@ -146,7 +146,7 @@ const Slides = () => {
             <p className="author-line"> By Joe Vardon </p>
             <p className="date"> March 2, 2023 </p>
           </div>
-        </div>
+        </div> */}
         <div className="child4">
           <div className="human-img"></div>
           <div className="human-running-img"></div>

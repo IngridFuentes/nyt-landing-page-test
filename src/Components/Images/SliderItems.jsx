@@ -4,6 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import SliderItemFirst from './SliderItemFirst';
 import SliderItemSecond from './SliderItemSecond';
+import SliderItemThird from './SliderItemThird';
 
 
 const SliderItems = () => {
@@ -36,6 +37,7 @@ const SliderItems = () => {
             <Slider {...settings} ref={slider}>
                 <SliderItemFirst />
                 <SliderItemSecond />
+                <SliderItemThird />
             </Slider>
         </>
     )
