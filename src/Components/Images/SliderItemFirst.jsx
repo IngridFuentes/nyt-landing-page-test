@@ -1,11 +1,11 @@
 import React from 'react';
 import LogoBlack from '../../Assets/LogoBlack.svg' ;
-import styles from './SliderItemFirst.module.css';
+import styles from './SliderItem.module.css';
 import { text } from './Data';
 
 const SliderItemFirst = () => {
     return(
-        <div className="slider-item" style={{ width: 1400 }}>
+        <div className={styles.sliderItem} style={{ width: 1400 }}>
             <img src={LogoBlack} alt="" />
           <h1 className={styles.firstPageText}>
               {text.firstPageText}

@@ -61,7 +61,7 @@ const Slides = () => {
             </p>
           </h1>
         </div> */}
-        <div className="child2 overflow-hidden" style={{ width: 1400 }}>
+        {/* <div className="child2 overflow-hidden" style={{ width: 1400 }}>
           <m.div
             animate={{ y: 0 }}
             initial={{ y: "100%" }}
@@ -100,7 +100,7 @@ const Slides = () => {
           </div>
 
           <div className="image-596"></div>
-        </div>
+        </div> */}
         <div className="child3">
           <div className="basketball-img"></div>
           <div className="fire-img"></div>
