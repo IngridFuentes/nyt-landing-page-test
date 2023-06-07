@@ -3,6 +3,8 @@ import LogoBlack from '../../Assets/LogoBlack.svg' ;
 import styles from './SliderItem.module.css';
 import { text } from './Data';
 
+//first page slider
+
 const SliderItemFirst = () => {
     return(
         <div className={styles.sliderItem} style={{ width: 1400 }}>

@@ -5,8 +5,8 @@ const SliderItemThird = () => {
 
     return(
         <div className={styles.item3}>
-          <img className={styles.basketballImg} />
-          <img className={styles.fireImg} /> 
+          <img className={styles.basketballImg} alt="" />
+          <img className={styles.fireImg} alt="" /> 
           <p className={styles.textCenterSecond}>
             Hardwood,
           </p>
@@ -17,8 +17,8 @@ const SliderItemThird = () => {
             So you get Flying,
           </p>
 
-          <img className={styles.kareemImg} /> 
-          <img className={styles.planeImg} /> 
+          <img className={styles.kareemImg} alt=""/> 
+          <img className={styles.planeImg} alt="" /> 
           <div className={styles.sportsLineSecond}>Sports</div>
           <div className={styles.kareemLine}>
 

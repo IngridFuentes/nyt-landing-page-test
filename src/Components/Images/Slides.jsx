@@ -147,7 +147,7 @@ const Slides = () => {
             <p className="date"> March 2, 2023 </p>
           </div>
         </div> */}
-        <div className="child4">
+        {/* <div className="child4">
           <div className="human-img"></div>
           <div className="human-running-img"></div>
           <div className="text-staying-aloft">
@@ -167,32 +167,22 @@ const Slides = () => {
             <p className="author-line"> By Gretchen Reynolds </p>
             <p className="date"> Published Feb. 10, 2021 </p>
           </div>
-          <m.p
-            animate={{ y: 0 }}
-            initial={{ y: "50%" }}
-            transition={{ delay: 0.5, transition: 0.5 }}
-            className="text-center-third"
-          >
+          <p className="text-center-third">
             our Changing World
-          </m.p>
-          <m.p
-            animate={{ y: 0 }}
-            initial={{ y: "50%" }}
-            transition={{ delay: 0.5, transition: 0.5 }}
-          >
-            and Human Evolution,{" "}
-          </m.p>
+          </p>
+          <p>
+            and Human Evolution,
+          </p>
 
           <div className="world-line">World</div>
           <div className="changing-world-line">
-            {" "}
             Ocean-Eaten Islands, Fire-Scarred Forests: Our Changing World in
             Pictures
             <p className="author-line"> By The New York Times </p>
             <p className="date"> Nov. 8, 2022 </p>
           </div>
-        </div>
-        <div className="child5">
+        </div> */}
+        {/* <div className="child5">
           <div className="skull-img"></div>
           <div className="gum-wrapper-img"></div>
           <div className="skull-img-line"> Science </div>
@@ -222,7 +212,7 @@ const Slides = () => {
           >
             So you can understand Gum,
           </m.p>
-        </div>
+        </div> */}
         <div className="child6">
           <div className="street-gum-img"></div>
           <div className="street-gum-line"> New York </div>

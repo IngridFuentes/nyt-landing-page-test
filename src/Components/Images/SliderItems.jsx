@@ -5,6 +5,8 @@ import "slick-carousel/slick/slick-theme.css";
 import SliderItemFirst from './SliderItemFirst';
 import SliderItemSecond from './SliderItemSecond';
 import SliderItemThird from './SliderItemThird';
+import SliderItemFourth from './SliderItemFourth';
+import SliderItemFifth from './SliderItemFifth';
 
 
 const SliderItems = () => {
@@ -38,6 +40,8 @@ const SliderItems = () => {
                 <SliderItemFirst />
                 <SliderItemSecond />
                 <SliderItemThird />
+                <SliderItemFourth />
+                <SliderItemFifth />
             </Slider>
         </>
     )

@@ -475,7 +475,7 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.world-line{
+.worldLine{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
@@ -490,7 +490,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.changing-world-line{
+.changingWorldLine{
     position: absolute;
     max-width: 533px;
     min-height: 186px;
@@ -505,7 +505,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.human-img{
+.humanImg{
     background: url('../../Assets/NYT_Understanding_LP_Still_Human Evolution.png');
     position: absolute;
     width: 420px;
@@ -514,7 +514,7 @@ svg{
     top: 470px;
     max-width: 100%;
 }
-.human-running-img{
+.humanRunningImg{
     background: url('../../Assets/NYT_Understanding_LP_Still_Running.png');
     position: absolute;
     width: 311.8px;
@@ -523,7 +523,7 @@ svg{
     top: 9rem;
     max-width: 100%;
 }
-.text-staying-aloft{
+.textStayingAloft{
     position: absolute;
     max-width: 400px;
     min-height: 186px;
@@ -538,7 +538,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.daily-line{
+.dailyLine{
     position: absolute;
     width: 218px;
     min-height: 27px;
@@ -552,7 +552,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.daily-line-second{
+.dailyLineSecond{
     position: absolute;
     width: 533px;
     min-height: 101px;
@@ -568,13 +568,13 @@ svg{
 
     mix-blend-mode: normal;
 }
-.child5 {
+.item5 {
     background-color: rgb(175, 212, 25);
     width: 200vh;
     height: 100vh;
   }
 
-  .skull-img{
+  .skullImg{
     background: url('../../Assets/NYT_Understanding_LP_Still_Chewing 1.png');
     position: absolute;
     width: 535px;
@@ -583,7 +583,7 @@ svg{
     top: 10px;
     max-width: 100%;
   }
-  .skull-img-line{
+  .skullImgLine{
     position: absolute;
     width: 218px;
     min-height: 27px;
@@ -597,7 +597,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
   }
-  .chewing-line{
+  .chewingLine{
     position: absolute;
     width: 460px;
     min-height: 186px;
@@ -611,7 +611,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
   }
-  .gum-wrapper-img{
+  .gumWrapperImg{
     background: url('../../Assets/60_NewYorkTimes_Sneakers_Offline_CoreEdit_04_10_6PM_GUMINWRAPPER.png');
     position: absolute;
     width: 605px;
@@ -620,7 +620,7 @@ svg{
     top: 10px;
     max-width: 100%;
   }
-  .gum-wrapper-line{
+  .gumWrapperLine{
     position: absolute;
     width: 218px;
     min-height: 27px;
@@ -634,7 +634,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
   }
-  .quit-chewing-line{
+  .quitChewingLine{
     position: absolute;
     width: 460px;
     min-height: 186px;
@@ -648,7 +648,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
   }
-  .text-center-fourth{
+  .textCenterFourth{
     position: absolute;
     width: 8107px;
     min-height: 97px;
@@ -665,7 +665,7 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.child6 {
+.item6 {
     background-color: rgb(26, 127, 235);
     width: 200vh;
     height: 100vh;
