@@ -139,7 +139,7 @@ svg{
         margin-left: -50rem;
     }
 } */
-  .author-line{
+  .authorLine{
     margin-top: -5px;
     font-family: 'NYTFranklin';
     font-style: normal;
@@ -202,7 +202,7 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.next-first-text-center{
+.nextFirstTextCenter{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
@@ -219,7 +219,7 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.styles-line{
+.stylesLine{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
@@ -233,7 +233,7 @@ svg{
     color: #ffffff;
     mix-blend-mode: normal;
 }
-.sports-line{
+.sportsLine{
     position: absolute;
     max-width: 196.2px;
     min-height: 24.3px;
@@ -247,7 +247,7 @@ svg{
     color: #ffffff;
     mix-blend-mode: normal;
 }
-.why-basketball-line{
+.whyBasketballLine{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
@@ -261,11 +261,11 @@ svg{
     color: #ffffff;
     mix-blend-mode: normal;
 }
-.slick-prev:before,
+/* .slick-prev:before,
 .slick-next:before {
-  color: rgb(89, 0, 255)!important;
-}
-.fight-sneakers-line{
+  color: rgb(89, 0, 255)!important; */
+/* } */
+.fightSneakersLine{
     position: absolute;
     max-width: 360px;
     min-height: 102.6px;
@@ -391,7 +391,7 @@ svg{
     font-weight: 800;
     font-size: 23px;
 }
-.kareem-second-line{
+.kareemSecondLine{
     position: absolute;
     max-width: 508px;
     min-height: 281px;
@@ -671,7 +671,7 @@ svg{
     height: 100vh;
   }
 
-  .street-gum-img{
+  .streetGumImg{
     background: url('../../Assets/60_NewYorkTimes_Sneakers_Offline_CoreEdit_04_10_6PM_Street.png');
     position: absolute;
     width: 941px;
@@ -679,7 +679,7 @@ svg{
     left: 465rem;
     max-width: 100%;
   }
-  .street-gum-line{
+  .streetGumLine{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
@@ -693,7 +693,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
   }
-  .street-ny-line{
+  .streetNyLine{
     position: absolute;
     max-width: 460px;
     min-height: 186px;
@@ -707,7 +707,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
   }
-  .text-center-fifth{
+  .textCenterFifth{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
@@ -724,13 +724,13 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.child7 {
+.item7 {
     background-color: rgb(214, 159, 231);
     width: 200vh;
     height: 100vh;
   }
 
-  .text-center-sixth{
+  .textCenterSixth{
     position: absolute;
     max-width: 8107px;
     min-height: 97px;
@@ -747,7 +747,7 @@ svg{
     mix-blend-mode: normal;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.sneakers-img{
+.sneakersImg{
     background: url('../../Assets/60_NewYorkTimes_Sneakers_Offline_CoreEdit_04_10_6PM_SHRINK_WRAP.png');
     position: absolute;
     width: 876px;
@@ -756,7 +756,7 @@ svg{
     top: 8rem;
     max-width: 100%;
 }
-.technology-line{
+.technologyLine{
     position: absolute;
     max-width: 218px;
     min-height: 27px;
@@ -770,7 +770,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.wrapped-sneakers-line{
+.wrappedSneakersLine{
     position: absolute;
     max-width: 400px;
     min-height: 170px;
@@ -784,13 +784,13 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.child8{
+.item8{
     background-color: rgb(0, 0, 0);
     width: 200vh;
     height: 210vh;
     /* overflow-y: hidden; */
 }
-.last-line{
+.lastLine{
     position: absolute;
     max-width: 793px;
     min-height: 101px;
@@ -807,7 +807,7 @@ svg{
     color: #FFFFFF;
     mix-blend-mode: normal;
 }
-.video-sneakers-img{
+.videoSneakersImg{
     background: url('../../Assets/Screenshot 2023-03-15 at 4.06 1.png');
     position: absolute;
     width: 1080px;
@@ -816,7 +816,7 @@ svg{
     top: 25rem;
     max-width: 100%;
 }
-.grey-sq{
+.greySq{
     background: url('../../Assets/Rectangle 3.png');
     position: absolute;
     width: 100%;
@@ -824,7 +824,7 @@ svg{
     top: 63rem;
     margin-left: 1rem;
 }
-.white-sq{
+.whiteSq{
     /* background: url('../../Assets/Rectangle 19.png'); */
     /* position: absolute; */
     width: 100%;
@@ -835,7 +835,7 @@ svg{
     background-color: #FFFFFF;
     margin-top: 75rem;
 }
-.text-on-greysq{
+.textOnGreysq{
     position: absolute;
     width: 831px;
     height: 25px;
@@ -850,7 +850,7 @@ svg{
 
     color: #000000;
 }
-.nyt-logo{
+.nytLogo{
     position: absolute;
     left: 632rem;
     top: 0rem;
@@ -860,7 +860,7 @@ svg{
     position: absolute;
     top: 4rem;
 }
-.nyt-sensitive-user-info{
+.nytSensitiveUserInfo{
     position: absolute;
     left: 647rem;
     width: 350px;
@@ -875,7 +875,7 @@ svg{
 
     color: #000000;
 }
-.nyt-company-line-footer{
+.nytCompanyLineFooter{
     position: absolute;
     width: 250px;
     height: 131px;
@@ -888,10 +888,10 @@ svg{
     color: #000000;
 
 }
-.about-footer{
+.aboutFooter{
     font-weight: 700;
 }
-.questions-footer{
+.questionsFooter{
     position: absolute;
     width: 250px;
     height: 131px;
@@ -903,6 +903,6 @@ svg{
     line-height: 36px;
     color: #000000;
 }
-.help-line-footer{
+.helpLineFooter{
     font-weight: 700;
 }

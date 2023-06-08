@@ -46,7 +46,7 @@ const Slides = () => {
 
   return (
     <div className="container">
-      <Slider {...settings} ref={slider}>
+      {/* <Slider {...settings} ref={slider}> */}
         {/* <div className="slider-item" style={{ width: 1400 }}>
             <img src={LogoBlack}/>
           <h1 className="first-page-text">
@@ -213,7 +213,7 @@ const Slides = () => {
             So you can understand Gum,
           </m.p>
         </div> */}
-        <div className="child6">
+        {/* <div className="child6">
           <div className="street-gum-img"></div>
           <div className="street-gum-line"> New York </div>
           <div className="street-ny-line">
@@ -224,8 +224,8 @@ const Slides = () => {
           <p className="text-center-fifth">
             and when you realize how much of it is on the Street,
           </p>
-        </div>
-        <div className="child7" style={{ width: 700 }}>
+        </div> */}
+        {/* <div className="child7" style={{ width: 700 }}>
           <div className="sneakers-img"></div>
           <div className="technology-line"> Technology </div>
           <div className="wrapped-sneakers-line">
@@ -237,8 +237,8 @@ const Slides = () => {
           <p className="text-center-sixth">
             you understand why some people never wear their Sneakers.
           </p>
-        </div>
-        <div className="child8" style={{ width: 700 }}>
+        </div> */}
+        {/* <div className="child8" style={{ width: 700 }}>
           <div className="last-line"> More of life brought to life. </div>
           <div className="video-sneakers-img"></div>
           <div className="grey-sq">
@@ -278,8 +278,8 @@ const Slides = () => {
               Frequently Asked Questions Contact Us Feedback
             </div>
           </div>
-        </div>
-      </Slider>
+        </div> */}
+      {/* </Slider> */}
     </div>
   );
 };

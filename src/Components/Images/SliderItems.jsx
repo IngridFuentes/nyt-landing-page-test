@@ -7,14 +7,16 @@ import SliderItemSecond from './SliderItemSecond';
 import SliderItemThird from './SliderItemThird';
 import SliderItemFourth from './SliderItemFourth';
 import SliderItemFifth from './SliderItemFifth';
+import SliderItemSixth from './SliderItemSixth';
+import SliderItemSeventh from './SliderItemSeventh';
+import SliderItemEigth from './SliderItemEigth'
 
 
 const SliderItems = () => {
         const settings = {
           dots: false,
           infinite: false,
-          lazyLoad: true,
-          speed: 800,
+          speed: 1000,
           slidesToShow: 1,
           slidesToScroll: 1
         }
@@ -42,6 +44,9 @@ const SliderItems = () => {
                 <SliderItemThird />
                 <SliderItemFourth />
                 <SliderItemFifth />
+                <SliderItemSixth />
+                <SliderItemSeventh />
+                <SliderItemEigth />
             </Slider>
         </>
     )

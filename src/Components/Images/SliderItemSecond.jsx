@@ -7,7 +7,7 @@ const SliderItemSecond = () => {
         <div className={styles.item2} style={{ width: 1400 }}>
           <img className={styles.jordanSneakers} alt=""/>
           <img className={styles.midnightballImg} alt=""/> 
-          <p className="textCenter">
+          <p className={styles.textCenter}>
             If you understand <p> Sneakers,</p> 
           </p>
           <p className="next-first-text-center">
